@@ -1,54 +1,51 @@
-![Dark background with symbols like #, *, %, and binary digits (0 and 1), featuring the central white text: "The open source AI code editor."](assets/the-oss-ai-code-editor.jpg)
+![Fond sombre avec des symboles comme #, *, %, et des chiffres binaires (0 et 1), avec au centre le texte blanc : "The open source AI code editor."](assets/the-oss-ai-code-editor.jpg)
 
 # VS Code Dev Days
 
-The **VS Code Dev Days** event series is a global, in-person user group initiative coming this September. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of Visual Studio Code and GitHub Copilot in autonomous AI development.
+La série d'événements **VS Code Dev Days** est une initiative mondiale de groupes d'utilisateurs, organisée en présentiel en septembre. Notre objectif est de rassembler les développeurs, passionnés et communautés locales pour explorer la puissance de Visual Studio Code et GitHub Copilot dans le développement autonome par l'IA.
 
-VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot. These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
+Les VS Code Dev Days sont **ouverts à tous les développeurs** et mettent l'accent sur le **codage assisté par l'IA** avec GitHub Copilot. Ces **ateliers en présentiel** auront lieu partout dans le monde en **septembre 2025**, dureront de 2,5 à 3 heures et seront animés par des communautés techniques locales.
 
-## 🌱 Getting Started
 
-If you're a community leader and want to host a VS Code Dev Days event, in this repo you will find resources and materials to help you plan and execute your event successfully.
 
-**To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) this repo.**
 
-### 📚 Resources available
+### 🗓️ Format de l'événement
 
-| Topic | Description | Resources |
+Les **VS Code Dev Days @ Gembloux, Belgique** sont conçus pour être une expérience pratique, permettant aux participants d'apprendre en faisant.  
+**L'agenda de l'événement doit suivre la structure standard ci-dessous.**
+
+| #  | Heure | Sujet | Durée | Orateur | Ressources  |
+|----|-----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
+| 00 | 17h00 | Accueil & Networking | 30 min. | 
+| 01 | 17h30 | Démarrez avec GitHub Copilot dans VS Code. | 45 min. | Denis Voituron (Microsoft)| [📁 **Dossier Content**](/content/)    |
+| 02 | 18h15 | Comment évaluer le modèle qui convient au mieux à vos besoins de dev ? | 20 min. | Leila Rebbouh (Onyrix) |   |
+| 03 | 18h35 | Les MCP dans VS Code : Comment sur-vitaminer votre éditeur de code  | 20 min. | Adrien Clerbois (Microsoft MVP) |   |
+| 04 | 19h00 | Atelier | 60 min. | Christophe Peugnet    | [📁 **Dossier Content**](/content/) |
+| 05 | 20h00 | Drink & networking 🍻 | 20 min. |  |
+
+**Pour retrouver facilement ce dépôt plus tard, vous pouvez aussi [ajouter une étoile (🌟) à ce repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).**
+
+### 📚 Ressources disponibles
+
+| Sujet | Description | Ressources |
 | :--- | :--- | :--- |
-| 📁 [**Content**](/content) | Technical content for sessions and workshops. | Presentation slides, hands-on labs |
-| 📁 [**Organization Guide**](/organization) | Step-by-step guidance for planning, organizing, and running successful events, with checklists and templates. | Event checklist, registration page draft |
-| 📁 [**Promotional Materials**](/marketing) | Marketing toolkit to help you promote your event, featuring social media templates and reference texts. | Event covers, social media templates |
+| 📁 [**Contenu**](/content) | Contenu technique pour les sessions et ateliers. | Slides de présentation, ateliers pratiques |
+| 📁 [**Guide d'organisation**](/organization) | Guide étape par étape pour planifier, organiser et réussir vos événements, avec checklists et modèles. | Checklist événement, brouillon page d'inscription |
+| 📁 [**Matériel promotionnel**](/marketing) | Kit marketing pour promouvoir votre événement, avec des modèles pour les réseaux sociaux et des textes de référence. | Visuels d'événement, modèles réseaux sociaux |
 
-### 🗓️ Event format
 
-The **VS Code Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing.  
-**The event agenda should follow the standard structure outlined below.**
+## Contribution
 
-| #  | Topic                                              | Duration      | Description                                                                 | Resources                |
-|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
-| 01 | Essential Techniques for GitHub Copilot in VS Code | 30–45 minutes| Get started using GitHub Copilot in VS Code.                                | [📁 **Content folder**](/content/)            |
-| 02 | Community Session                                 | 30–45 minutes| Session delivered by a community member. Content is flexible but should focus on autonomous AI. | **Chosen by community**  |
-| 03 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [📁 **Content folder**](/content/) |
+Ce projet accueille volontiers les contributions et suggestions. La plupart des contributions nécessitent d'accepter un
+Contributor License Agreement (CLA) déclarant que vous avez le droit de nous accorder l'utilisation de votre contribution. Pour plus de détails, consultez [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com).
 
-## Contributing
+Lorsque vous soumettez une pull request, un bot CLA déterminera automatiquement si vous devez fournir un CLA et annotera la PR en conséquence (ex : vérification de statut, commentaire). Suivez simplement les instructions du bot. Vous n'aurez à le faire qu'une seule fois pour tous les dépôts utilisant notre CLA.
 
-This project welcomes contributions and suggestions. Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com).
+Ce projet a adopté le [Code de Conduite Open Source Microsoft](https://opensource.microsoft.com/codeofconduct/).
+Pour plus d'informations, consultez la [FAQ du Code de Conduite](https://opensource.microsoft.com/codeofconduct/faq/) ou contactez [opencode@microsoft.com](mailto:opencode@microsoft.com) pour toute question ou commentaire supplémentaire.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Marques déposées
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Ce projet peut contenir des marques ou logos pour des projets, produits ou services. L'utilisation autorisée des marques ou logos Microsoft est soumise et doit respecter les [Directives d'utilisation des marques et de la marque Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+L'utilisation des marques ou logos Microsoft dans des versions modifiées de ce projet ne doit pas prêter à confusion ou impliquer un parrainage de Microsoft.
+Toute utilisation de marques ou logos de tiers est soumise aux politiques de ces tiers.
